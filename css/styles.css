@@ -78,3 +78,16 @@ body {
 	color: #000000;
 }
 
+.col-lg-12.custom{
+  background-color: #666699;
+  border-radius: 25px;
+  color: #ffffff; 
+  margin: auto;
+  font-size: 16px;
+  font-family: times;
+  text-align: center;
+}
+
+.tweak{
+  color: #ffffff;
+}
